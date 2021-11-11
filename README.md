@@ -3,4 +3,4 @@
 
 # Tip's
 
-[알고리즘 문제 팁](https://wonnyhouse.tistory.com/246)
+[알고리즘 문제 팁 (코틀린)](https://wonnyhouse.tistory.com/246)
